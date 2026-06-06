@@ -21,7 +21,7 @@
 ## 🧭 About Me
 
 ```yaml
-name:           Jacob
+name:           Jacob T Sajan
 role:           Cloud Infrastructure & DevSecOps Engineer
 education:      MCA (Master of Computer Applications)
 location:       India 🇮🇳
