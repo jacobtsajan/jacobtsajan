@@ -87,7 +87,7 @@ interests:
 ### 🛡️ Bot-Shield — Cloud-Native DevSecOps Middleware
 > **Node.js · AWS EC2 · CloudWatch · NPM**
 
-[![NPM Downloads](https://img.shields.io/badge/NPM%20Downloads-550%2B-CB3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com)
+[![NPM Downloads](https://img.shields.io/badge/NPM%20Downloads-550%2B-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/bot-shield)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)](https://github.com)
 
